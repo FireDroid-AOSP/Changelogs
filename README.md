@@ -81,3 +81,5 @@
 
 • fixed alot more bugs & optimise the source over AOSP source & other features that i forget to mention
 
+Bug:-
+apn need to add manually for working mobile data connection.
